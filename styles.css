@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+td{
+	border: 1px solid black;
+	
+}
+.maindiv{
+	background-color: grey;
+}
+td{
+	text-align:center;
+}
+.firstcol{
+	width: 200px;
+}
+.secondcol{
+	width: 600px;
+}
+.thirdcol{
+	width: 200px;
+}
